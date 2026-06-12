@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "assignments": {
+    "/lustre/aifs/client/LQA_test5/prj50001": {
+      "path": "/lustre/aifs/client/LQA_test5/prj50001",
+      "fsname": "aifs",
+      "projid": 50001,
+      "parent_path": "/lustre/aifs/client/LQA_test5",
+      "parent_projid": 0,
+      "governing_lqa": null,
+      "lqa_ranges": null,
+      "l1_parent_path": null,
+      "tier": 0,
+      "created_at": "2026-06-12T00:32:03.660559+00:00",
+      "updated_at": "2026-06-12T00:32:03.660669+00:00"
+    }
+  },
+  "last_updated": "2026-06-12T00:32:03.660675+00:00"
+}
