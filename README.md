@@ -70,6 +70,10 @@ cd /home/tozhang/program/lustre-prjquota-api
 # Install dependencies (use a virtual environment in production)
 pip install -r requirements.txt
 
+# Edit the .env file
+cp .env.example .env
+vim .env
+
 # Start the server (defaults: 0.0.0.0:8000)
 uvicorn main:app --host 0.0.0.0 --port 8000
 
